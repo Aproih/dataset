@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 xxxx
 testdata
 xxxx IReport
@@ -19,6 +18,4 @@ gce4
 gcer
 gc
 er
-=======
-eropkfewgopj'fergaopijkfeaopjm'feawropmfewoprgkeoprkg'fewopkferopkfewropk
->>>>>>> testdata
+
